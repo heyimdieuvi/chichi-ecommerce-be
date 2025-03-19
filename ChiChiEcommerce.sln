@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiChiEcommerce.WebAPI", "ChiChiEcommerce.WebAPI\ChiChiEcommerce.WebAPI.csproj", "{B4261199-131A-4B77-8F78-1C90F30BBDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiChiEcommerce.Infrastructure", "ChiChiEcommerce.Infrastructure\ChiChiEcommerce.Infrastructure.csproj", "{287B9A30-0C66-48E0-9B90-B995C505E4A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiChiEcommerce.Domain", "ChiChiEcommerce.Domain\ChiChiEcommerce.Domain.csproj", "{FCBA596B-1D87-46E2-9ADE-46D93E7E1EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiChiEcommerce.Application", "ChiChiEcommerce.Application\ChiChiEcommerce.Application.csproj", "{45AE2CFD-91BF-4432-B2E5-152A9952B71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4261199-131A-4B77-8F78-1C90F30BBDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4261199-131A-4B77-8F78-1C90F30BBDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4261199-131A-4B77-8F78-1C90F30BBDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4261199-131A-4B77-8F78-1C90F30BBDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287B9A30-0C66-48E0-9B90-B995C505E4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287B9A30-0C66-48E0-9B90-B995C505E4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287B9A30-0C66-48E0-9B90-B995C505E4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287B9A30-0C66-48E0-9B90-B995C505E4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBA596B-1D87-46E2-9ADE-46D93E7E1EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBA596B-1D87-46E2-9ADE-46D93E7E1EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBA596B-1D87-46E2-9ADE-46D93E7E1EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBA596B-1D87-46E2-9ADE-46D93E7E1EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AE2CFD-91BF-4432-B2E5-152A9952B71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AE2CFD-91BF-4432-B2E5-152A9952B71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AE2CFD-91BF-4432-B2E5-152A9952B71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AE2CFD-91BF-4432-B2E5-152A9952B71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
