@@ -16,4 +16,10 @@
     <ProjectReference Include="..\ChiChiEcommerce.Infrastructure\ChiChiEcommerce.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Middlewares\" />
+  </ItemGroup>
+
 </Project>
